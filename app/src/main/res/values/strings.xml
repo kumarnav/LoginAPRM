@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name" translatable="false">LoginAPRM</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="desc">APRM Logo</string>
+    <string name="aprm_app">APRM Mobile App</string>
+    <string name="usr">Username</string>
+    <string name="pwd">Password</string>
+    <string name="login">Login</string>
+    <string name="wlcm">APRM Portal</string>
+    <string name="LoggedIn">User: </string>
+    <string name="Contracts">Contracts</string>
+    <string name="ContractLists">Contract Lists</string>
+    <string name="logout">Logout</string>
+    <string name="Back">Back</string>
+    <string name="IncrctMsg">No Of Attempts Remaining:: </string>
+    <string name="openlink">Open Link</string>
+    <string name="title_activity_aprm__widget">APRM_Widget</string>
+</resources>
